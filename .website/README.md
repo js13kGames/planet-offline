@@ -1,4 +1,8 @@
 ---
+genres:
+  - strategy
+  - adventure
+  - shooter
 # See github.com/js13kGames/hello-world for supported frontmatter
 ---
 
